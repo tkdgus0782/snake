@@ -7,7 +7,7 @@ class snake{
 		this.dir = 2;//0 1 2 3 위 오른쪽 아래 왼쪽 ㄱㄱ 왼쪽 오른쪽 방향키 클릭시 값 -1, + 1 하면 회전 ㅆㄱㄴ
 		this.body = [[15, 10], [15,9]];
 		
-		window.timer = setInterval(()=>{this.move();}, 150);
+		window.timer = setInterval(()=>{this.move();}, 200);
 	}
 	
 	move(){
