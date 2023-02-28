@@ -1,3 +1,7 @@
+https://tkdgus0782.github.io/snake/
+
+
+
 # htmlGameTemplate
 
 my own html game template!!
